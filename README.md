@@ -1,2 +1,9 @@
-# legendary-instantmenu
-simple instantmenu interface for legendary
+# legendary-imenu
+
+simple imenu interface for legendary
+
+## Dependencies
+
+- legendary
+- imenu
+- fzf
